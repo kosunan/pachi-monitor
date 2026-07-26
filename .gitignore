@@ -1,0 +1,17 @@
+# 認証セッション・Cookie（公開リポジトリに絶対含めない）
+chrome_profile/
+
+# ChromeDriver 実行ファイル
+chromedriver.exe
+chromedriver-win64/
+LICENSE.chromedriver
+THIRD_PARTY_NOTICES.chromedriver
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
